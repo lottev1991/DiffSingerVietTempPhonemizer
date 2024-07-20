@@ -21,35 +21,35 @@ This is a rough overview of the (largely improvised) default phonetic system of 
 
 | Grapheme(s)  | Phoneme(s) |
 | ------------- | ------------- |
-| __a, ă__  | ``a`` |
-| __â, ơ__  | ``A`` (long), ``AX`` (short) |
-| __b__  | ``b`` |
-| __c, k, q__ | ``k`` (beginning), ``K`` (end) |
-| __ch__  | ``ch`` (beginning), ``K`` (end) |
-| __d, gi-, r__  | ``z`` |
-| __đ__  | ``d`` |
-| __e__  | ``e`` |
-| __ê__  | ``E`` (long), ``AX`` (short) |
-| __f, ph__  | ``f`` |
-| __g, gh__  | ``g`` |
-| __h__  | ``h`` |
-| __i, y__  | ``i`` (long), ``y`` (short) |
-| __kh__  | ``kh`` |
-| __l__  | ``l`` |
-| __m__  | ``m`` (beginning), ``M`` (end) |
-| __n__  | ``n`` (beginning), ``N`` (end) |
-| __nh__  | ``nh`` (beginning), ``NG`` (end) |
-| __ng, ngh__  | ``ng`` (beginning), ``NG`` (end) |
-| __o__  | ``o`` (long), ``w`` (short) |
-| __ô__  | ``O`` |
-| __p__  | ``p`` (beginning), ``P`` (end) |
-| __s, x__  | ``s`` |
-| __t__  | ``t`` (beginning), ``T`` (end) |
-| __th__  | ``th`` |
-| __u__  | ``u`` (long), ``w`` (short) |
-| __ư__  | ``U`` |
-| __v__  | ``v`` |
-| __none__  | ``q`` (glottal stop before vowels and ``w``) |
+| _a, ă_  | ``a`` |
+| _â, ơ_  | ``A`` (long), ``AX`` (short) |
+| _b_  | ``b`` |
+| _c, k, q_ | ``k`` (beginning), ``K`` (end) |
+| _ch_  | ``ch`` (beginning), ``K`` (end) |
+| _d, gi-, r_  | ``z`` |
+| _đ_  | ``d`` |
+| _e_  | ``e`` |
+| _ê_  | ``E`` (long), ``AX`` (short) |
+| _f, ph_  | ``f`` |
+| _g, gh_  | ``g`` |
+| _h_  | ``h`` |
+| _i, y_  | ``i`` (long), ``y`` (short) |
+| _kh_  | ``kh`` |
+| _l_  | ``l`` |
+| _m_  | ``m`` (beginning), ``M`` (end) |
+| _n_  | ``n`` (beginning), ``N`` (end) |
+| _nh_  | ``nh`` (beginning), ``NG`` (end) |
+| _ng, ngh_  | ``ng`` (beginning), ``NG`` (end) |
+| _o_  | ``o`` (long), ``w`` (short) |
+| _ô_  | ``O`` |
+| _p_  | ``p`` (beginning), ``P`` (end) |
+| _s, x_  | ``s`` |
+| _t_  | ``t`` (beginning), ``T`` (end) |
+| _th_  | ``th`` |
+| _u_  | ``u`` (long), ``w`` (short) |
+| _ư_  | ``U`` |
+| _v_  | ``v`` |
+| _none_  | ``q`` (glottal stop before vowels and ``w``) |
 
 If there are any inaccuracies in the dict, feel free to open an issue in the Issues tab above, or you can submit a pull request with corrections.
 
