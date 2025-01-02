@@ -46,7 +46,7 @@ This is a rough overview of the (largely improvised) default phonetic system of 
 | _s, x_  | ``s`` |
 | _t_  | ``t`` (beginning), ``T`` (end) |
 | _th_  | ``th`` |
-| _ts_  | ``ch`` |
+| _tr_  | ``ch`` |
 | _u_  | ``u`` (long), ``w`` (short) |
 | _ư_  | ``U`` |
 | _v_  | ``v`` |
