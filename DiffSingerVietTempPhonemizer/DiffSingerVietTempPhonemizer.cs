@@ -9,6 +9,7 @@ namespace OpenUtau.Core.DiffSinger {
     /// Feel free to ship this with your own voicebanks, along with the dsdict I made; just credit me for making them.
     /// </summary>
     public class DiffSingerVietTempPhonemizer : DiffSingerBasePhonemizer {
+        protected override string GetLangCode() => "vi";
         protected override string GetDictionaryName() => "dsdict-vi.yaml";
     }
 }
