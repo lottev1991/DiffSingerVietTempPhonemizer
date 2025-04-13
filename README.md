@@ -13,7 +13,7 @@ Drag-and-drop the .dll file (can be found in the Releases tab on the right) onto
 Copy the .dll file (in the Releases tab on the right) over to the Plugins folder inside the OpenUtau installation folder. If this folder doesn't exist, make it.
 
 ## How to install/use the dsdict
-- Copy over either of the ``dsdur`` folder into your voicebank's folder (or just copy the ``dsdict-vi.yaml`` file alone). You can find those in the "Multidict" and "Single dict" folders; which one you need depends on if your model is multidict or not.
+- Copy over either of the ``dsdur`` folders into your voicebank's folder (or just copy the ``dsdict-vi.yaml`` file alone). You can find those in the "Multidict" and "Single dict" folders; which one you need depends on if your model is multidict or not.
 - Now you can use it with the Vietnamese phonemizer.
 
 ## Phoneme set
