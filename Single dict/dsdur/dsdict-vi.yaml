@@ -1,6 +1,7 @@
 symbols:
 - {symbol: SP, type: vowel}
 - {symbol: AP, type: vowel}
+- {symbol: GS, type: glottal}
 - {symbol: a, type: vowel}
 - {symbol: A, type: vowel}
 - {symbol: AX, type: semivowel}
@@ -22,7 +23,6 @@ symbols:
 - {symbol: d, type: stop}
 - {symbol: f, type: fricative}
 - {symbol: g, type: fricative}
-- {symbol: q, type: glottal}
 - {symbol: h, type: aspirate}
 - {symbol: k, type: stop}
 - {symbol: kh, type: fricative}
