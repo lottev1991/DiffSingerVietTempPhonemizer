@@ -17,6 +17,8 @@ Copy the .dll file (in the Releases tab on the right) over to the Plugins folder
 - Now you can use it with the Vietnamese phonemizer.
 
 ## Phoneme set
+The multidict language code is `vi`.
+
 This is a rough overview of the (largely improvised) default phonetic system of the dictionary. I can't guarantee that this covers everything in every context, but it should give a rough idea.
 
 | Grapheme(s)  | Phoneme(s) |
